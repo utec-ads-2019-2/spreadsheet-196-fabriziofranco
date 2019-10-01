@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/spreadsheet_196_fabriziofranco.dir/main.cpp.o  -o spreadsheet_196_fabriziofranco 
